@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset = "UTF-8">
+    <meta name = "viewport" content="width=device-width, initial-scale=1.0"
+    <title>Recuperar contraseña</title>
+</head>
+<body>
+<h2><strong>Restablecer contraseña</strong></h2>
+<main>
+    <lebel for= "Vista de recuperación de contraseña">
+        Contraseña actual
+        <input type="text" name = "Recuperación de contraseña" id ="Contraseña actual">
+    </lebel>
+    <lebel>
+        Nueva contraseña
+        <input type="text" name = "Recuperación de contraseña" id ="Nueva contraseña">
+    </lebel>
+    <lebel>
+        Nueva contraseña (Confirmación)
+        <input type="text" name = "Recuperación de contraseña" id ="Cofirmación de nueva contraseña">
+    </lebel>
+</main>
+</body>
+
+</html>
